@@ -1,0 +1,30 @@
+\\main\RDP\31П\ПигалевЕД\Desktop\Пигалёв_31П_численные методы_вариант 4\Задание 2\Задание 2\bin\Debug\net6.0\Задание 2.exe
+\\main\RDP\31П\ПигалевЕД\Desktop\Пигалёв_31П_численные методы_вариант 4\Задание 2\Задание 2\bin\Debug\net6.0\Задание 2.deps.json
+\\main\RDP\31П\ПигалевЕД\Desktop\Пигалёв_31П_численные методы_вариант 4\Задание 2\Задание 2\bin\Debug\net6.0\Задание 2.runtimeconfig.json
+\\main\RDP\31П\ПигалевЕД\Desktop\Пигалёв_31П_численные методы_вариант 4\Задание 2\Задание 2\bin\Debug\net6.0\Задание 2.dll
+\\main\RDP\31П\ПигалевЕД\Desktop\Пигалёв_31П_численные методы_вариант 4\Задание 2\Задание 2\bin\Debug\net6.0\ref\Задание 2.dll
+\\main\RDP\31П\ПигалевЕД\Desktop\Пигалёв_31П_численные методы_вариант 4\Задание 2\Задание 2\bin\Debug\net6.0\Задание 2.pdb
+\\main\RDP\31П\ПигалевЕД\Desktop\Пигалёв_31П_численные методы_вариант 4\Задание 2\Задание 2\obj\Debug\net6.0\Задание 2.csproj.AssemblyReference.cache
+\\main\RDP\31П\ПигалевЕД\Desktop\Пигалёв_31П_численные методы_вариант 4\Задание 2\Задание 2\obj\Debug\net6.0\Задание 2.GeneratedMSBuildEditorConfig.editorconfig
+\\main\RDP\31П\ПигалевЕД\Desktop\Пигалёв_31П_численные методы_вариант 4\Задание 2\Задание 2\obj\Debug\net6.0\Задание 2.AssemblyInfoInputs.cache
+\\main\RDP\31П\ПигалевЕД\Desktop\Пигалёв_31П_численные методы_вариант 4\Задание 2\Задание 2\obj\Debug\net6.0\Задание 2.AssemblyInfo.cs
+\\main\RDP\31П\ПигалевЕД\Desktop\Пигалёв_31П_численные методы_вариант 4\Задание 2\Задание 2\obj\Debug\net6.0\Задание 2.csproj.CoreCompileInputs.cache
+\\main\RDP\31П\ПигалевЕД\Desktop\Пигалёв_31П_численные методы_вариант 4\Задание 2\Задание 2\obj\Debug\net6.0\Задание 2.dll
+\\main\RDP\31П\ПигалевЕД\Desktop\Пигалёв_31П_численные методы_вариант 4\Задание 2\Задание 2\obj\Debug\net6.0\ref\Задание 2.dll
+\\main\RDP\31П\ПигалевЕД\Desktop\Пигалёв_31П_численные методы_вариант 4\Задание 2\Задание 2\obj\Debug\net6.0\Задание 2.pdb
+\\main\RDP\31П\ПигалевЕД\Desktop\Пигалёв_31П_численные методы_вариант 4\Задание 2\Задание 2\obj\Debug\net6.0\Задание 2.genruntimeconfig.cache
+C:\Users\stron\OneDrive\Рабочий стол\Задание 2\Задание 2\bin\Debug\net6.0\Задание 2.exe
+C:\Users\stron\OneDrive\Рабочий стол\Задание 2\Задание 2\bin\Debug\net6.0\Задание 2.deps.json
+C:\Users\stron\OneDrive\Рабочий стол\Задание 2\Задание 2\bin\Debug\net6.0\Задание 2.runtimeconfig.json
+C:\Users\stron\OneDrive\Рабочий стол\Задание 2\Задание 2\bin\Debug\net6.0\Задание 2.dll
+C:\Users\stron\OneDrive\Рабочий стол\Задание 2\Задание 2\bin\Debug\net6.0\Задание 2.pdb
+C:\Users\stron\OneDrive\Рабочий стол\Задание 2\Задание 2\obj\Debug\net6.0\Задание 2.csproj.AssemblyReference.cache
+C:\Users\stron\OneDrive\Рабочий стол\Задание 2\Задание 2\obj\Debug\net6.0\Задание 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stron\OneDrive\Рабочий стол\Задание 2\Задание 2\obj\Debug\net6.0\Задание 2.AssemblyInfoInputs.cache
+C:\Users\stron\OneDrive\Рабочий стол\Задание 2\Задание 2\obj\Debug\net6.0\Задание 2.AssemblyInfo.cs
+C:\Users\stron\OneDrive\Рабочий стол\Задание 2\Задание 2\obj\Debug\net6.0\Задание 2.csproj.CoreCompileInputs.cache
+C:\Users\stron\OneDrive\Рабочий стол\Задание 2\Задание 2\obj\Debug\net6.0\Задание 2.dll
+C:\Users\stron\OneDrive\Рабочий стол\Задание 2\Задание 2\obj\Debug\net6.0\refint\Задание 2.dll
+C:\Users\stron\OneDrive\Рабочий стол\Задание 2\Задание 2\obj\Debug\net6.0\Задание 2.pdb
+C:\Users\stron\OneDrive\Рабочий стол\Задание 2\Задание 2\obj\Debug\net6.0\Задание 2.genruntimeconfig.cache
+C:\Users\stron\OneDrive\Рабочий стол\Задание 2\Задание 2\obj\Debug\net6.0\ref\Задание 2.dll
